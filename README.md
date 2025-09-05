@@ -11,16 +11,16 @@ I'm a passionate *Web Developer* 🕸️ with experience building dynamic and ef
 ## 🛠️ Technologies & Tools  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-FF6347?style=flat&logo=php&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-  <img src="https://img.shields.io/badge/Laravel-FF6347?style=flat&logo=laravel&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-  <img src="https://img.shields.io/badge/MySQL-FF6347?style=flat&logo=mysql&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-  <img src="https://img.shields.io/badge/HTML5-FF6347?style=flat&logo=html5&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-  <img src="https://img.shields.io/badge/CSS3-FF6347?style=flat&logo=css3&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-  <img src="https://img.shields.io/badge/JavaScript-FF6347?style=flat&logo=javascript&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-  <img src="https://img.shields.io/badge/Bootstrap-FF6347?style=flat&logo=bootstrap&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-FF6347?style=flat&logo=tailwind-css&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-  <img src="https://img.shields.io/badge/jQuery-FF6347?style=flat&logo=jquery&logoColor=FF6347&labelColor=ffffff&color=ffffff" />
-</p>    
+  <img src="https://img.shields.io/badge/PHP-?style=for-the-badge&logo=php&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/Laravel-?style=for-the-badge&logo=laravel&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/MySQL-?style=for-the-badge&logo=mysql&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/HTML5-?style=for-the-badge&logo=html5&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/CSS3-?style=for-the-badge&logo=css3&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/JavaScript-?style=for-the-badge&logo=javascript&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/Bootstrap-?style=for-the-badge&logo=bootstrap&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-?style=for-the-badge&logo=tailwind-css&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/jQuery-?style=for-the-badge&logo=jquery&logoColor=FF6347&color=FF6347&labelColor=00000000" />
+</p>     
 
 ---
 
