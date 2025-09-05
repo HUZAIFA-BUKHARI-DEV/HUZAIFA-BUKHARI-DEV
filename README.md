@@ -1,6 +1,6 @@
 # Hi, I'm Huzaifa Bukhari!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF6347&width=600&lines=Laravelish+%7C+Perfectionist;Full+Stack+Web+Developer;Backend+%26+Frontend+Specialist;Always+Learning+New+Things)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF6347&width=600&lines=Laravelish+%7C+Perfectionist;Always+Learning+New+Things)](https://git.io/typing-svg)  
 
 I'm a passionate *Web Developer* 🕸️ with experience building dynamic and efficient web applications. I enjoy working on backend development, integrating complex APIs, and creating smooth, responsive user interfaces.  
 
