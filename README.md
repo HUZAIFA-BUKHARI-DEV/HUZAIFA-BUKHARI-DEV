@@ -11,15 +11,15 @@ I'm a passionate *Web Developer* 🕸️ with experience building dynamic and ef
 ## 🛠️ Technologies & Tools  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-FF6347?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF6347?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-FF6347?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FF6347?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FF6347?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-FF6347?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-FF6347?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-FF6347?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-FF6347?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF6347?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-FF6347?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FF6347?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FF6347?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FF6347?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-FF6347?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FF6347?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-FF6347?style=flat&logo=jquery&logoColor=white" />
 </p>  
 
 ---
