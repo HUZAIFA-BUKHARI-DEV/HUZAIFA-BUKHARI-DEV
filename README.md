@@ -23,7 +23,8 @@ const huzaifa = {
     specialization: ["Backend Architecture", "API Development", "UI/UX Design"],
     currentFocus: "Building scalable Laravel applications",
     philosophy: "Clean code, pixel-perfect designs, optimized performance",
-    lifeGoal: "Never stop learning and innovating"
+    lifeGoal: "Never stop learning and innovating",
+    Portfolio: "www.huzaifabukhari.online"
 };
 ```
 
