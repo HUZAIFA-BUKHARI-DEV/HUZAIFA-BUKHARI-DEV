@@ -5,6 +5,7 @@
 <div align="center">
 
   ### 🚀 Full-Stack Developer | Laravel Specialist | UI/UX Enthusiast
+  <a href="https://huzaifabukhari.online">My Portfolio</a>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6347&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+Web+Solutions;Laravel+%7C+PHP+%7C+MySQL+Expert;Crafting+Beautiful+User+Experiences" alt="Typing SVG" />
 
@@ -23,8 +24,7 @@ const huzaifa = {
     specialization: ["Backend Architecture", "API Development", "UI/UX Design"],
     currentFocus: "Building scalable Laravel applications",
     philosophy: "Clean code, pixel-perfect designs, optimized performance",
-    lifeGoal: "Never stop learning and innovating",
-    Portfolio: "www.huzaifabukhari.online"
+    lifeGoal: "Never stop learning and innovating"
 };
 ```
 
