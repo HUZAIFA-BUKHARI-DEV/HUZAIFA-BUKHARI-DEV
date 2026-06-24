@@ -21,18 +21,19 @@
 
 ### About Me
 
-🄱🅄🅂🄸🄽🄴🅂🅂🄴🅂 🄾🄵🅃🄴🄽 🅂🅃🅁🅄🄶🄶🄻🄴 with manual workflows, scattered data, slow operations, and outdated systems that waste time and reduce efficiency.
+I am a Backend Developer specializing in the design and development of scalable web applications, RESTful APIs, and enterprise-grade software solutions using Laravel, PHP, MySQL, and modern web technologies.
 
-> *" 𝙄 𝙝𝙚𝙡𝙥 𝙗𝙪𝙨𝙞𝙣𝙚𝙨𝙨𝙚𝙨 𝙨𝙤𝙡𝙫𝙚 𝙩𝙝𝙚𝙨𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨 𝙗𝙮 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙨𝙘𝙖𝙡𝙖𝙗𝙡𝙚 𝙇𝙖𝙧𝙖𝙫𝙚𝙡 𝙬𝙚𝙗 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙩𝙖𝙞𝙡𝙤𝙧𝙚𝙙 𝙩𝙤 𝙩𝙝𝙚𝙞𝙧 𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙤𝙣𝙨 𝙖𝙣𝙙 𝙬𝙤𝙧𝙠𝙛𝙡𝙤𝙬 𝙣𝙚𝙚𝙙𝙨. "*
+I architect and develop robust backend systems, optimize application performance, design efficient database structures, and implement maintainable software architectures. My work includes SaaS platforms, management systems, AI-integrated applications, automation tools, custom business solutions, and API-driven services.
 
-Whether it's automating daily tasks, managing customers, handling bookings, tracking data, creating dashboards, integrating APIs, or building complete business systems — I develop solutions that simplify operations and support business growth.
+### Core Expertise
 
-**𝗜 𝗯𝘂𝗶𝗹𝗱:**
-
-`School Management Systems` `SaaS Platforms` `AI-Powered Web Apps` `E-commerce Websites`
-`Booking Systems` `Dashboards & Admin Panels` `REST APIs` `Automation Tools` `Portfolio & Business Websites`
-
-**𝗜 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻** clean UI/UX, scalable architecture, strong communication, and business-oriented problem solving.
+Backend Development
+Software Architecture & System Design
+REST API Development & Integrations
+Database Design & Optimization
+Workflow Automation
+SaaS Platform Development
+AI-Powered Web Applications
 
 <br clear="right"/>
 
