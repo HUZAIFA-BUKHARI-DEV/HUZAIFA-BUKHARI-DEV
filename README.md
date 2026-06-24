@@ -21,9 +21,9 @@
 
 I am a Backend Developer specializing in the design and development of scalable web applications, RESTful APIs, and enterprise-grade software solutions using Laravel, PHP, MySQL, and modern web technologies.
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 I architect and develop robust backend systems, optimize application performance, design efficient database structures, and implement maintainable software architectures. My work includes SaaS platforms, management systems, AI-integrated applications, automation tools, custom business solutions, and API-driven services.
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### Core Expertise
 
