@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ### About Me
 
 I am a Backend Developer specializing in the design and development of scalable web applications, RESTful APIs, and enterprise-grade software solutions using Laravel, PHP, MySQL, and modern web technologies.
