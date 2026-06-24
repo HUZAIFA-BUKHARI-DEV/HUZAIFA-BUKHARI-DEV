@@ -27,7 +27,7 @@ I architect and develop robust backend systems, optimize application performance
 
 ### Core Expertise
 
-Backend Development
+Backend Development <br />
 Software Architecture & System Design
 REST API Development & Integrations
 Database Design & Optimization
