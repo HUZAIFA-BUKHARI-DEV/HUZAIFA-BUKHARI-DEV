@@ -21,12 +21,18 @@
 
 ### About Me
 
-I'm a Full-Stack Developer from Pakistan specializing in building **scalable backend systems** and **clean, modern UIs**. My craft is Laravel — I design RESTful APIs, optimize relational databases, and wire together third-party services into cohesive products.
+🄱🅄🅂🄸🄽🄴🅂🅂🄴🅂 🄾🄵🅃🄴🄽 🅂🅃🅁🅄🄶🄶🄻🄴 with manual workflows, scattered data, slow operations, and outdated systems that waste time and reduce efficiency.
 
-- 🔧 Currently architecting **enterprise-grade Laravel applications**
-- ☁️ Exploring **microservices & cloud-native deployment**
-- 🧠 Philosophy: *readable code, intentional design, measurable performance*
-- 🤝 Open to **freelance, contracts, and long-term collaborations**
+> *" 𝙄 𝙝𝙚𝙡𝙥 𝙗𝙪𝙨𝙞𝙣𝙚𝙨𝙨𝙚𝙨 𝙨𝙤𝙡𝙫𝙚 𝙩𝙝𝙚𝙨𝙚 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨 𝙗𝙮 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙨𝙘𝙖𝙡𝙖𝙗𝙡𝙚 𝙇𝙖𝙧𝙖𝙫𝙚𝙡 𝙬𝙚𝙗 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙩𝙖𝙞𝙡𝙤𝙧𝙚𝙙 𝙩𝙤 𝙩𝙝𝙚𝙞𝙧 𝙤𝙥𝙚𝙧𝙖𝙩𝙞𝙤𝙣𝙨 𝙖𝙣𝙙 𝙬𝙤𝙧𝙠𝙛𝙡𝙤𝙬 𝙣𝙚𝙚𝙙𝙨. "*
+
+Whether it's automating daily tasks, managing customers, handling bookings, tracking data, creating dashboards, integrating APIs, or building complete business systems — I develop solutions that simplify operations and support business growth.
+
+**𝗜 𝗯𝘂𝗶𝗹𝗱:**
+
+`School Management Systems` `SaaS Platforms` `AI-Powered Web Apps` `E-commerce Websites`
+`Booking Systems` `Dashboards & Admin Panels` `REST APIs` `Automation Tools` `Portfolio & Business Websites`
+
+**𝗜 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻** clean UI/UX, scalable architecture, strong communication, and business-oriented problem solving.
 
 <br clear="right"/>
 
