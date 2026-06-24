@@ -28,12 +28,12 @@ I architect and develop robust backend systems, optimize application performance
 ### Core Expertise
 
 Backend Development <br />
-Software Architecture & System Design
-REST API Development & Integrations
-Database Design & Optimization
-Workflow Automation
-SaaS Platform Development
-AI-Powered Web Applications
+Software Architecture & System Design <br />
+REST API Development & Integrations <br />
+Database Design & Optimization <br />
+Workflow Automation <br />
+SaaS Platform Development <br />
+AI-Powered Web Applications <br />
 
 <br clear="right"/>
 
