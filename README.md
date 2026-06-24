@@ -17,8 +17,7 @@
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-a324-4f6e-b69e-7e2a05ec5a25.gif" />
 ### About Me
 
 I am a Backend Developer specializing in the design and development of scalable web applications, RESTful APIs, and enterprise-grade software solutions using Laravel, PHP, MySQL, and modern web technologies.
