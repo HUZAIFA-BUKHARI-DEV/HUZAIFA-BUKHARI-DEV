@@ -132,14 +132,6 @@ I prefer simple, understandable solutions over clever code. My usual approach:
 ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-161B22?style=flat-square&color=30363D)
 ![Linux Systems](https://img.shields.io/badge/-Linux%20Systems-161B22?style=flat-square&color=30363D)
 
-<br/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HUZAIFA-BUKHARI-DEV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_rank=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUZAIFA-BUKHARI-DEV&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-
-</div>
 
 <br/>
 
