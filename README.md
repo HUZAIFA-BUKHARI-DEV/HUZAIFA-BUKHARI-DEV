@@ -36,7 +36,6 @@ I also enjoy learning how frameworks, operating systems, and developer tools wor
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 </td>
 <td valign="top" width="25%">
@@ -53,7 +52,7 @@ I also enjoy learning how frameworks, operating systems, and developer tools wor
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
@@ -105,14 +104,6 @@ WhatsApp chat import system for processing exported ZIP archives with large chat
 `Laravel` `MySQL` `Amazon S3` `Queues`
 
 </td>
-<td width="50%" valign="top">
-
-### ⚙️ NodeWell
-Laravel-inspired framework for Node.js, built to understand framework internals. Routing, middleware, controllers, request/response wrappers, template engine, CLI generators, hot reload.
-
-`Node.js` `JavaScript` `Custom Router`
-
-</td>
 </tr>
 </table>
 
@@ -137,9 +128,8 @@ I prefer simple, understandable solutions over clever code. My usual approach:
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-161B22?style=flat-square&color=30363D)
 ![High--Performance APIs](https://img.shields.io/badge/-High--Performance%20APIs-161B22?style=flat-square&color=30363D)
 ![DB Performance](https://img.shields.io/badge/-Database%20Performance-161B22?style=flat-square&color=30363D)
-![C++](https://img.shields.io/badge/-C%2B%2B%20Backend-161B22?style=flat-square&color=30363D)
-![Drogon](https://img.shields.io/badge/-Drogon-161B22?style=flat-square&color=30363D)
 ![Open Source](https://img.shields.io/badge/-Open--Source%20Contribution-161B22?style=flat-square&color=30363D)
+![Shell Scripting](https://img.shields.io/badge/-System%20Design-161B22?style=flat-square&color=30363D)
 
 <br/>
 
