@@ -1,71 +1,80 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Huzaifa Bukhari — Backend Developer" />
-</div>
 
-<br/>
+# HUZAIFA BUKHARI
 
-<div align="center">
+**BACKEND DEVELOPER** · LARAVEL / PHP / MYSQL
 
-<a href="https://huzaifabukhari.online">portfolio</a> &nbsp;/&nbsp;
-<a href="https://www.linkedin.com/in/huzaifa-bukhari-452969340">linkedin</a> &nbsp;/&nbsp;
-<a href="mailto:huzaifabukhari.dev.designer@gmail.com">email</a> &nbsp;/&nbsp;
-<a href="https://github.com/HUZAIFA-BUKHARI-DEV">github</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=520&lines=building+scalable+backend+systems;designing+REST+APIs+that+hold+up;optimizing+data+at+scale" />
+
+[Portfolio](https://huzaifabukhari.online) · [LinkedIn](https://www.linkedin.com/in/huzaifa-bukhari-452969340) · [Email](mailto:huzaifabukhari.dev.designer@gmail.com) · [GitHub](https://github.com/HUZAIFA-BUKHARI-DEV)
 
 </div>
 
 <br/>
 
-#### `about.md`
+## `01` Overview
 
 I build backend systems — Laravel applications, REST APIs, and the database work that holds them together. Most of what I do sits behind SaaS products, internal tools, and services that need to keep running long after the demo is over.
 
 <br/>
 
-#### `stack.json`
+## `02` Focus
 
-```json
-{
-  "language":  "PHP",
-  "framework": "Laravel",
-  "database":  ["MySQL", "PostgreSQL", "SQLite"],
-  "frontend":  ["JavaScript", "Tailwind CSS", "Bootstrap"],
-  "tooling":   ["Docker", "Git", "Postman", "Linux"]
-}
+```
+▸ REST API design, authentication, service boundaries
+▸ Schema design and query tuning at scale
+▸ SaaS platforms and internal admin tooling
+▸ AI-integrated features layered onto existing Laravel systems
 ```
 
 <br/>
 
-#### `focus.md`
-
-- REST API design, authentication, service boundaries
-- Schema design and query tuning at scale
-- SaaS platforms and internal admin tooling
-- AI-integrated features layered onto existing Laravel systems
-
-<br/>
-
-#### `status.log`
-
-```
-[open]  freelance projects & technical collaborations
-[reach] huzaifabukhari.dev.designer@gmail.com
-```
-
-<br/>
-
-#### `stats.sh`
+## `03` Stack
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=HUZAIFA-BUKHARI-DEV&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=E2703A&icon_color=E2703A&text_color=C9C9C9&hide_rank=true" />
+
+![PHP](https://img.shields.io/badge/PHP-00D9FF?style=flat-square&logo=php&logoColor=0a0a0a)
+![Laravel](https://img.shields.io/badge/Laravel-00D9FF?style=flat-square&logo=laravel&logoColor=0a0a0a)
+![MySQL](https://img.shields.io/badge/MySQL-00D9FF?style=flat-square&logo=mysql&logoColor=0a0a0a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00D9FF?style=flat-square&logo=postgresql&logoColor=0a0a0a)
+![Docker](https://img.shields.io/badge/Docker-00D9FF?style=flat-square&logo=docker&logoColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-00D9FF?style=flat-square&logo=javascript&logoColor=0a0a0a)
+![Tailwind](https://img.shields.io/badge/Tailwind-00D9FF?style=flat-square&logo=tailwindcss&logoColor=0a0a0a)
+![Git](https://img.shields.io/badge/Git-00D9FF?style=flat-square&logo=git&logoColor=0a0a0a)
+
 </div>
 
 <br/>
 
-#### `work/`
+## `04` Status
 
-| project | what it does | stack |
+```
+> open_to_freelance      : true
+> technical_collabs      : true
+> contact                : huzaifabukhari.dev.designer@gmail.com
+```
+
+<br/>
+
+## `05` Metrics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=HUZAIFA-BUKHARI-DEV&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_rank=true)
+
+</div>
+
+<br/>
+
+## `06` Selected work
+
+| Project | Description | Stack |
 |---|---|---|
-| _project-one_ | one line on the problem it solves | Laravel · MySQL |
-| _project-two_ | one line on the problem it solves | Laravel · PostgreSQL |
+| *project-one* | one line on the problem it solves | Laravel, MySQL |
+| *project-two* | one line on the problem it solves | Laravel, PostgreSQL |
 
-<sub>replace these two rows with real repos — name, one honest sentence, stack.</sub>
+<div align="center">
+
+<sub>— END OF FILE —</sub>
+
+</div>
