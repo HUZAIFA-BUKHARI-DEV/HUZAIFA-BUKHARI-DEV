@@ -2,7 +2,7 @@
 
 # Huzaifa Bukhari
 
-### Backend Engineer · Laravel Specialist · API & AI Integration Developer
+### Backend Developer · Laravel-ish · API & AI Integration Developer
 
 I design and build production-ready backend systems, scalable REST APIs, SaaS platforms,  
 database-driven applications, and AI-powered features using Laravel, PHP, MySQL, PostgreSQL, Docker, and Linux.
@@ -108,7 +108,7 @@ Linux deployment, cron jobs, queue workers, Docker environments, shared hosting,
 ## Core Expertise
 
 ```text
-Backend Engineering
+Backend Developer
 ├── Laravel application architecture
 ├── REST API design
 ├── Authentication and authorization
@@ -119,7 +119,7 @@ Backend Engineering
 ├── Business workflow implementation
 └── API integration and debugging
 
-Database Engineering
+Database Development
 ├── MySQL
 ├── PostgreSQL
 ├── SQLite
@@ -136,7 +136,7 @@ Infrastructure
 ├── Git
 ├── Nginx
 ├── Apache
-├── Hostinger shared hosting
+├── Shared Hosting
 ├── VPS deployment
 ├── Supervisor
 └── Environment configuration
@@ -257,50 +257,6 @@ A Laravel system that imports exported WhatsApp chat archives, parses large chat
 
 ---
 
-### NodeWell — Laravel-Inspired Node.js Framework
-
-A custom Node.js framework built to explore framework internals and reproduce developer-friendly Laravel concepts in the JavaScript ecosystem.
-
-**Implemented features**
-
-- Router
-- Named routes
-- Route parameters
-- Middleware
-- Controllers
-- Request and response wrappers
-- Template engine
-- View inheritance
-- Conditional directives
-- Loops and includes
-- CLI generators
-- Basic ORM model
-- Hot reload development server
-
-**Technology**
-
-`Node.js` · `JavaScript` · `Custom Router` · `Template Engine` · `CLI Tooling`
-
----
-
-### Synchain — Offline Device Mirroring
-
-An Android project focused on local, internet-free device mirroring through Wi-Fi Direct and chained device connections.
-
-**Core goals**
-
-- Offline connectivity
-- Low-latency mirroring
-- Wi-Fi Direct networking
-- QR-based connection setup
-- Multi-device chain architecture
-- Android-native implementation
-
-**Technology**
-
-`Java` · `Android` · `Wi-Fi Direct` · `Networking`
-
----
 
 ### Awardize — Rewards and Commerce Platform
 
@@ -308,7 +264,7 @@ A Laravel-based commerce and rewards system with products, reservations, reviews
 
 **Technology**
 
-`Laravel 12` · `MySQL` · `React` · `Hostinger` · `Cron Jobs`
+`Laravel 12` · `MySQL` · `Blade` · `Hostinger` · `Cron Jobs`
 
 ---
 
@@ -409,8 +365,6 @@ I am currently deepening my knowledge in:
 - Distributed systems
 - Event-driven architecture
 - High-performance backend development
-- C++
-- Drogon framework
 - Framework internals
 - Linux systems
 - Open-source contribution
@@ -437,14 +391,6 @@ Open-Source Software
 ---
 
 ## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HUZAIFA-BUKHARI-DEV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_rank=true" alt="Huzaifa Bukhari GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUZAIFA-BUKHARI-DEV&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Huzaifa Bukhari most used languages" />
-
-</div>
 
 <div align="center">
 
