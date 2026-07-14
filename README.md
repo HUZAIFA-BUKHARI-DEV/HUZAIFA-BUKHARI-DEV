@@ -35,12 +35,17 @@ I build backend systems — Laravel applications, REST APIs, and the database wo
 
 ![PHP](https://img.shields.io/badge/PHP-00D9FF?style=flat-square&logo=php&logoColor=0a0a0a)
 ![Laravel](https://img.shields.io/badge/Laravel-00D9FF?style=flat-square&logo=laravel&logoColor=0a0a0a)
+![Blade](https://img.shields.io/badge/Blade-00D9FF?style=flat-square&logo=laravel&logoColor=0a0a0a)
 ![MySQL](https://img.shields.io/badge/MySQL-00D9FF?style=flat-square&logo=mysql&logoColor=0a0a0a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00D9FF?style=flat-square&logo=postgresql&logoColor=0a0a0a)
+![SQLite](https://img.shields.io/badge/SQLite-00D9FF?style=flat-square&logo=sqlite&logoColor=0a0a0a)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-00D9FF?style=flat-square&logo=tailwindcss&logoColor=0a0a0a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00D9FF?style=flat-square&logo=bootstrap&logoColor=0a0a0a)
 ![Docker](https://img.shields.io/badge/Docker-00D9FF?style=flat-square&logo=docker&logoColor=0a0a0a)
-![JavaScript](https://img.shields.io/badge/JavaScript-00D9FF?style=flat-square&logo=javascript&logoColor=0a0a0a)
-![Tailwind](https://img.shields.io/badge/Tailwind-00D9FF?style=flat-square&logo=tailwindcss&logoColor=0a0a0a)
+![Linux](https://img.shields.io/badge/Linux-00D9FF?style=flat-square&logo=linux&logoColor=0a0a0a)
 ![Git](https://img.shields.io/badge/Git-00D9FF?style=flat-square&logo=git&logoColor=0a0a0a)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00D9FF?style=flat-square&logo=fastapi&logoColor=0a0a0a)
+![AI Integrations](https://img.shields.io/badge/AI_Integrations-00D9FF?style=flat-square&logo=openai&logoColor=0a0a0a)
 
 </div>
 
