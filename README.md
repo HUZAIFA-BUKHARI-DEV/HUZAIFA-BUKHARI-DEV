@@ -80,15 +80,15 @@ I also enjoy learning how frameworks, operating systems, and developer tools wor
 <tr>
 <td width="50%" valign="top">
 
-###Farmacy
-AI-assisted farming platform for Pakistani farmers. Recommends crops using location, soil type, weather, season, and regional conditions; provides crop, fertilizer, disease, and seed information.
+### Farmacy
+AI-assisted farming platform for farmers. Recommends crops using location, soil type, weather, season, and regional conditions; provides crop, fertilizer, disease, and seed information.
 
 `Laravel` `MySQL` `Botpress` `REST API`
 
 </td>
 <td width="50%" valign="top">
 
-###S-HUB
+### S-HUB
 School management and safety platform for principals, teachers, students, and guardians. Attendance, timetables, teacher rotas, academic analytics, notifications, and emergency alerts.
 
 `Laravel 12` `MySQL` `Flutter` `FCM`
@@ -98,7 +98,7 @@ School management and safety platform for principals, teachers, students, and gu
 <tr>
 <td width="50%" valign="top">
 
-###Synced Chat
+### Synced Chat
 WhatsApp chat import system for processing exported ZIP archives with large chat histories and media. Chunked uploads, message parsing, media extraction, batch inserts, S3 storage.
 
 `Laravel` `MySQL` `Amazon S3` `Queues`
